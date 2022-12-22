@@ -15,3 +15,5 @@ project_cworld를 간단한 안드로이드 어플로 변형
 
 시연 영상은
 https://pichen.tistory.com/4
+
+![image](https://user-images.githubusercontent.com/115135514/209072256-367e22dc-e52a-43ad-8396-c9fa94b596ee.png)
